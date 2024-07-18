@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4E1A\u52A1\u903B\u8F91\\\u8026\u5149\\output\\CrossAlignmentAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD09B9D-0F6A-4A87-9688-7C6B2EFBB93A}|CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm.csproj|d:\\task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4E1A\u52A1\u903B\u8F91\\\u8026\u5149\\output\\crossalignmentalgorithm\\crossalignmentalgorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD09B9D-0F6A-4A87-9688-7C6B2EFBB93A}|CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm.csproj|solutionrelative:crossalignmentalgorithm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD09B9D-0F6A-4A87-9688-7C6B2EFBB93A}|CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm.csproj|D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4E1A\u52A1\u903B\u8F91\\\u8026\u5149\\output\\CrossAlignmentAlgorithm\\crossalignmentalgorithm\\position2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD09B9D-0F6A-4A87-9688-7C6B2EFBB93A}|CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm.csproj|solutionrelative:crossalignmentalgorithm\\position2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Position2D.cs",
+              "DocumentMoniker": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4E1A\u52A1\u903B\u8F91\\\u8026\u5149\\output\\CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm\\Position2D.cs",
+              "RelativeDocumentMoniker": "CrossAlignmentAlgorithm\\Position2D.cs",
+              "ToolTip": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4E1A\u52A1\u903B\u8F91\\\u8026\u5149\\output\\CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm\\Position2D.cs",
+              "RelativeToolTip": "CrossAlignmentAlgorithm\\Position2D.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:39:08.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4E1A\u52A1\u903B\u8F91\\\u8026\u5149\\output\\CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm\\Program.cs",
+              "RelativeDocumentMoniker": "CrossAlignmentAlgorithm\\Program.cs",
+              "ToolTip": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4E1A\u52A1\u903B\u8F91\\\u8026\u5149\\output\\CrossAlignmentAlgorithm\\CrossAlignmentAlgorithm\\Program.cs",
+              "RelativeToolTip": "CrossAlignmentAlgorithm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T08:29:26.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

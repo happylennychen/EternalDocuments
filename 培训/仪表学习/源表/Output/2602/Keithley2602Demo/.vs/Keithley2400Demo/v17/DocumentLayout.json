@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4EEA\u8868\u5B66\u4E60\\\u6E90\u8868\\Output\\Keithley2400Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5240C9CC-86D9-494E-982C-5321FB9D3852}|Keithley2400Demo\\Keithley2400Demo.csproj|d:\\task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4EEA\u8868\u5B66\u4E60\\\u6E90\u8868\\output\\keithley2400demo\\keithley2400demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5240C9CC-86D9-494E-982C-5321FB9D3852}|Keithley2400Demo\\Keithley2400Demo.csproj|solutionrelative:keithley2400demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4EEA\u8868\u5B66\u4E60\\\u6E90\u8868\\Output\\Keithley2400Demo\\Keithley2400Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Keithley2400Demo\\Program.cs",
+              "ToolTip": "D:\\Task\\\u9A7F\u5929\u8BFA\u5B66\u4E60\\\u4EEA\u8868\u5B66\u4E60\\\u6E90\u8868\\Output\\Keithley2400Demo\\Keithley2400Demo\\Program.cs",
+              "RelativeToolTip": "Keithley2400Demo\\Program.cs",
+              "ViewState": "AQIAACgCAAAAAAAAAAAkwD8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:33:01.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
